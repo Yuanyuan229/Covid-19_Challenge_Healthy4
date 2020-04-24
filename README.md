@@ -1,4 +1,11 @@
 # Covid-19_Challenge_Healthy4
+
+## Introduction
+
+Leveraging the chance given by the COVID 19 challenge hosted by the UC Davis MSBA program, our group Healthy4 proudly developed a [website](https://yyge64.wixsite.com/covid19healthy4) to present our investigation on the impact of government reactions, public figures' attitudes, and health organizations' responses on the matter of disease control. Furthermore, we built a simulation model to quantify and visualize the influence of government intervention. 
+
+To make the comparison clear and easy to follow, we use the statistics of two highly spotted cities: New York and Wuhan. Creatively using a 'Parallel World' concept, the government responses of Wuhan and NY State are compared using days counted after the first regional case confirmation. Then, by several thought-provoking visualizations of the responses of WHO, CDC, and NY State government and politicians' attitudes, we discussed our findings and opinions on how to facing such a pandemic. Then, with an interactive simulation model, the users can easily know about what the situation will be like if the interventions were more strict or taken earlier. 
+
 ### 1) Project Highlights: <br>
 This project uses Covid-19 data to discuss the impact of government reaction on the matter of disease control of New York State. The project first presents a 'Parallel World' which compares the government responses of Wuhan, China and NY State after each area discovered its regional first case. Then, within the U.S., the project further looks at the responses of different parties including WHO, CDC and NY State government. The word clouds shed a light on the change of politicians' attitudes towards the disease. Users of our html can also vision what the situation will be like if the current disease control measure takes place in another time. The final deliverable is an html webpage.
 
